@@ -8,4 +8,4 @@ Conventionally, car parking systems does not have any intelligent monitoring sys
 Parking slots are monitored by human beings. 
 Use of automated system for car parking monitoring will reduce the human efforts. So an efficient parking management system is needed. 
 That is why this project proposes an Intelligent parking system that uses various sensors which will be based on Arduino and its application as interface to view available spaces.
-Thus in this project we demonstrated the use of IoT based parking management system that allows for efficient parking space utilization using IoT technology
+Thus in this project i demonstrated the use of IoT based parking management system that allows for efficient parking space utilization using IoT technology
