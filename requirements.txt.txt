@@ -1,0 +1,13 @@
+Hardware requirements
+
+1. Arduino UNO
+2. Servo motor
+3. LCD Display 16*2
+4. I2C Module
+5. Breadboard
+6. Jumper wires
+7. IR Sensor
+
+Software requirements
+
+1. Arduino IDE
